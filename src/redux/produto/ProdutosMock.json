@@ -1,0 +1,65 @@
+[{
+  "sku": 1,
+  "nome": "AirPods Apple Fones de Ouvido",
+  "valor": 1499.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "/assets/img/produto-01.jpeg",
+  "imageTitle": "AirPods Apple Fones de Ouvido"
+}, {
+  "sku": 2,
+  "nome": "Capa de silicone para IPhone 8/7 core Areia - Rosa",
+  "valor": 299.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "assets/img/produto-02.jpeg",
+  "imageTitle": "Capa de silicone para IPhone 8/7"
+}, {
+  "sku": 3,
+  "nome": "Apple Pencil",
+  "valor": 729.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "assets/img/produto-03.jpeg",
+  "imageTitle": "Apple Pencil"
+}, {
+  "sku": 4,
+  "nome": "Magic Mouse 2 - Prateado",
+  "valor": 549.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "assets/img/produto-04.jpeg",
+  "imageTitle": "Magic Mouse 2 - Prateado"
+}, {
+  "sku": 5,
+  "nome": "Caixa prateada de alumino com pulseira esportiva branca",
+  "valor": 2899.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "assets/img/produto-05.jpeg",
+  "imageTitle": "Caixa prateada de alumino com pulseira esportiva branca"
+}, {
+  "sku": 6,
+  "nome": "Cabo de lightning para USB (1m)",
+  "valor": 149.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "assets/img/produto-06.jpeg",
+  "imageTitle": "Cabo de lightning para USB (1m)"
+}, {
+  "sku": 7,
+  "nome": "Smart Keyboard para iPad Pro 12,9 polegadas - inglês (EUA)",
+  "valor": 1099.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "assets/img/produto-07.jpeg",
+  "imageTitle": "Smart Keyboard para iPad Pro 12,9 polegadas - inglês (EUA)"
+}, {
+  "sku": 8,
+  "nome": "Carregador USB de 5W Apple",
+  "valor": 149.00,
+  "quantidadeParcelas": 12,
+  "percentualDescontoAvista": 10,
+  "imageURL": "assets/img/produto-08.jpeg",
+  "imageTitle": "Carregador USB de 5W Apple"
+}]
